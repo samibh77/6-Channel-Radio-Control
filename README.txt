@@ -1,9 +1,9 @@
-# 6-Channel Radio Control System
+6-Channel Radio Control System
 
 ---
 
-## 🔎 Overview
-This project is a *custom 6-channel radio control (RC) system* designed for model vehicles such as **planes, cars, boats, and drones**.  
+ 🔎 Overview
+This project is a custom 6-channel radio control (RC) system designed for model vehicles such as **planes, cars, boats, and drones**.  
 
 It uses an **Arduino Nano** paired with an **NRF24L01 2.4GHz wireless module** to achieve reliable long-range communication.  
 A custom **PCB designed in EasyEDA** integrates all the electronics, while the **SPI protocol** ensures fast and stable data transfer between the microcontroller and wireless modules.  
