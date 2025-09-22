@@ -1,1 +1,21 @@
-Welcome to the repository for my latest project: a 6-channel radio control system designed for various model vehicles such as RC planes, cars, boats, and more. This project leverages EasyEDA for PCB design and uses Arduino Nano paired with 2.4GHz NRF24L01 modules for long-range wireless communication. The system employs the SPI (Serial Peripheral Interface) communication protocol for rapid and reliable data transfer between the Arduino and NRF24L01 modules.
+🔎 Overview
+This project is a **custom 6-channel radio control (RC) system** designed for model vehicles such as planes, cars, and boats.  
+The system combines **Arduino Nano microcontrollers** with **NRF24L01 2.4GHz wireless modules** to achieve reliable long-range communication.  
+
+A custom **PCB was designed in EasyEDA** to integrate the electronics, while the **SPI protocol** ensures fast and stable data transfer between the microcontroller and wireless modules.  
+
+The goal of this project is to provide a **low-cost, open-source, and flexible RC solution** that hobbyists and makers can adapt to their own vehicles.
+
+## ✨ Features
+- 🎚️ **6 independent channels** for versatile control  
+- 📡 **2.4GHz NRF24L01** wireless communication  
+- ⚡ **SPI protocol** for fast and reliable data transfer  
+- 🛠️ **Custom PCB** designed in EasyEDA  
+- 🔧 Works across multiple RC platforms (planes, cars, boats, drones) 
+
+## 🛠️ Tech Stack
+- **Microcontroller:** Arduino Nano  
+- **Wireless Module:** NRF24L01 (2.4GHz)  
+- **Design Tool:** EasyEDA  
+- **Protocol:** SPI  
+
